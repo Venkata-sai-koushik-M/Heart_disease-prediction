@@ -80,5 +80,6 @@ Feel free to contribute by submitting a pull request.
 MIT License  
 
 ## Authors
--[M.Venkata sai koushik][https://github.com/Venkata-sai-koushik-M?tab=repositories]
--[R.L.Sriyutha][https://github.com/Venkata-sai-koushik-M?tab=repositories]
+1-[M.Venkata sai koushik][https://github.com/Venkata-sai-koushik-M?tab=repositories]
+
+2-[R.L.Sriyutha][https://github.com/Sriyutha-R-L]
