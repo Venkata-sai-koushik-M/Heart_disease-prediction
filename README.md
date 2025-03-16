@@ -18,7 +18,7 @@ The dataset is stored in `dataset/heart_disease_extended_large.csv` and contains
 
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/Heart-Disease-Prediction.git
+git clone https://github.com/Venkata-sai-koushik-M/Heart-Disease-Prediction.git
 cd Heart-Disease-Prediction
 ```
 
